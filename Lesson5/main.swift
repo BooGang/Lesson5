@@ -107,3 +107,4 @@ audi.chageWindowState(windowsState: .open)
 audi.wheelSize = .small
 print(bmw.description)
 print(audi.description)
+//изменения
