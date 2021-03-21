@@ -105,5 +105,6 @@ bmw.changeEngineState(engineState:.start)
 bmw.openingRoof = .open
 audi.chageWindowState(windowsState: .open)
 audi.wheelSize = .small
-print(bmw.description)
-print(audi.description)
+print(bmw)
+print(audi)
+//изменения
